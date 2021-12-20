@@ -1,1 +1,1 @@
-# hackethonGolf
+# hackathonGolf
